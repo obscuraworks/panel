@@ -50,6 +50,16 @@ export default forwardRef<HTMLFormElement, Props>(({ title, ...props }, ref) => 
             >
                 Pterodactyl Software
             </a>
+            &nbsp;&middot;&nbsp;
+            Co-Engineered with&nbsp;
+            <a
+                rel={'noopener nofollow noreferrer'}
+                href={'https://obscuraworks.org'}
+                target={'_blank'}
+                css={tw`no-underline text-neutral-500 hover:text-neutral-300`}
+            >
+                PT Obscuraworks Digital Indonesia
+            </a>
         </p>
     </Container>
 ));
