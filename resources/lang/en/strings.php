@@ -91,5 +91,5 @@ return [
     'enable' => 'Enable',
     'disable' => 'Disable',
     'save' => 'Save',
-    'copyright' => '&copy; 2015 - :year Pterodactyl Software',
+    'copyright' => '&copy; 2015 - :year Pterodactyl Software &bull; Co-Engineered with <a href="https://obscuraworks.org" target="_blank">PT OBSCURAWORKS DIGITAL INDONESIA</a>',
 ];

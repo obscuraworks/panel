@@ -50,4 +50,12 @@
         <a href="{{ $version->getDonations() }}"><button class="btn btn-success" style="width:100%;"><i class="fa fa-fw fa-money"></i> Support the Project</button></a>
     </div>
 </div>
+<div class="row" style="margin-top:10px;">
+    <div class="col-xs-6 col-sm-3 text-center">
+        <a href="https://obscuraworks.org" target="_blank"><button class="btn btn-primary" style="width:100%;"><i class="fa fa-fw fa-code"></i> Obscuraworks API</button></a>
+    </div>
+    <div class="col-xs-6 col-sm-3 text-center">
+        <a href="https://chat.whatsapp.com/F8BMeMl2BfG97Bwn98Yzok?mode=gi_t" target="_blank"><button class="btn btn-success" style="width:100%;"><i class="fa fa-fw fa-whatsapp"></i> WhatsApp Group</button></a>
+    </div>
+</div>
 @endsection
